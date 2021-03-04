@@ -1,0 +1,59 @@
+[06-Sep-2013 21:44:47 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 01:12:40 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 11:24:41 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 14:39:05 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 14:44:07 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 14:44:51 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 14:46:48 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 15:06:15 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 15:06:22 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 15:06:30 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 16:20:49 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 18:24:02 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 18:24:28 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 18:25:04 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 18:27:09 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 18:40:14 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[07-Sep-2013 21:54:49 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[18-Sep-2013 01:21:47 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[20-Oct-2013 17:29:47 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[20-Oct-2013 17:29:51 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[23-Oct-2013 21:34:34 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[01-Dec-2013 14:32:17 Europe/Helsinki] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[19-Jan-2014 12:21:38 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/register.php on line 361
+[23-Jan-2014 01:54:18 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/register.php on line 361
+[23-Jan-2014 02:16:13 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/register.php on line 361
+[23-Jan-2014 02:20:13 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/register.php on line 361
+[23-Jan-2014 02:25:58 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[23-Jan-2014 02:26:34 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/unuttumisle.php on line 202
+[08-Feb-2014 20:38:35 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/unuttumisle.php on line 202
+[08-Feb-2014 20:48:03 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/register.php on line 361
+[18-Feb-2014 00:29:25 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[02-Mar-2014 23:31:28 Europe/Istanbul] PHP Fatal error:  Call to undefined method PHPMailer::IsSMTP() in /home/ndefter/public_html/unuttumisle.php on line 202
+[02-Mar-2014 23:44:08 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[03-Mar-2014 17:02:59 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[09-Mar-2014 02:27:20 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[09-Mar-2014 16:21:44 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/anasayfa.php on line 219
+[16-Mar-2014 01:24:15 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:24:19 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:25:14 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:25:15 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:08 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:09 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:10 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:11 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:12 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:13 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:13 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 01:27:13 Europe/Istanbul] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ndefter/public_html/eng/database_connection.php on line 8
+[16-Mar-2014 02:16:55 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 219
+[16-Mar-2014 02:23:20 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[16-Mar-2014 02:23:30 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[16-Mar-2014 02:23:36 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[16-Mar-2014 02:23:42 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[16-Mar-2014 02:36:41 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[16-Mar-2014 02:37:34 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[17-Mar-2014 22:03:18 Europe/Istanbul] PHP Warning:  file_get_contents(http://freegeoip.net/json/197.157.0.3):  in /home/ndefter/public_html/eng/anasayfa.php on line 201
+[17-Mar-2014 22:03:18 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 220
+[17-Mar-2014 22:03:18 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 259
+[17-Mar-2014 22:03:18 Europe/Istanbul] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ndefter/public_html/eng/anasayfa.php on line 263
